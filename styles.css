@@ -96,6 +96,7 @@ body {
     background-color: darkgreen;
     color: white;
     padding: .25em 0;
+    bottom: 0;
 }
 
 .main-footer-container {
@@ -396,7 +397,7 @@ img {
   /* Style for the ORDER NOW button */
   .order-now-btn {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 10px 10px;
     background-color: green;
     color: #fff;
     text-decoration: none;
